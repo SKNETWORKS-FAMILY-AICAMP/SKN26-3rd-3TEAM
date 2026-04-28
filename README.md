@@ -214,12 +214,12 @@ embedding_slot  fixed_slot              (JSON Schema 강제 슬롯 추출)
  answer (Markdown 대화체) + used_restaurant_list (지도 마커·카드 렌더)
 ```
 
-### 5.5 시스템 및 LLM 아키텍처
+### 5.5 System Architecture / LLM Architecture
 
-#### 시스템 아키텍처
+#### System Architecture
 <img src="https://github.com/SKN26-3rd-3rd/.github/blob/main/png/system.png?raw=true" width="1100px;" /><br />
 
-#### LLM 아키텍처
+#### LLM Architecture
 <img src="https://github.com/SKN26-3rd-3rd/.github/blob/main/png/llm.png?raw=true" width="1100px;" /><br />
 
 ---
